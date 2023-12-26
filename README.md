@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá Sou Silene Almeida!
 
-<!--
-**Silene-Almeida-2/Silene-Almeida-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦉 Estou em transição de carreira para Quality Assurance.
 
-Here are some ideas to get you started:
+👨‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio (EAD). Além disso, participei do Bootcamp de especialização em testes automatizados, o Dual eXperience, que oferece treinamento online, prático e intensivo, abrangendo automação de testes e o ecossistema relacionado à arte de testar software. Também participei do Bootcamp Avanti na trilha de Quality Assurance, promovido pelo Instituto Atlântico. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   📚 Conhecimentos Adquiridos:
+
+✅Execução de teste Manuais                                                                                    
+✅ Preparação de Massa de testes
+✅Abertura e fechamento de Bugs                                                                            
+✅ Testes funcionais
+✅ Escrita de documentação sintaxe Gherkin                                                         
+✅ Execução de Testes Regressivos
+
+
+Em busca da excelência na área de qualidade, minha jornada é dedicada a assegurar a entrega de software confiável e de alto desempenho.
+
+📫 Contate-me pelo e-mail: silene2pereira@gmail.com
